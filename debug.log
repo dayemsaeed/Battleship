@@ -1,0 +1,3 @@
+[0403/200454:INFO:(0)] WebCore is now online.
+[0403/200454:INFO:(0)] Running Awesomium 1.7.5.1
+[0404/033725:ERROR:socket_stream_dispatcher_host.cc(143)] socket_id=5 already closed.

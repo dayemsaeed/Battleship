@@ -1,0 +1,4 @@
+﻿  battleship.c
+c:\users\dayem\onedrive\desktop\pa6\pa6\battleship.c(545): warning C4715: 'getRandomNumber': not all control paths return a value
+  PA6.vcxproj -> C:\Users\dayem\OneDrive\Desktop\PA6\Debug\PA6.exe
+  PA6.vcxproj -> C:\Users\dayem\OneDrive\Desktop\PA6\Debug\PA6.pdb (Full PDB)
